@@ -38,7 +38,7 @@ setup(
     extras_require={
         "dev": [
             "pytest>=8.2.2",
-            "mkdocs>=1.6.1",
+            "mkdocs>=1.6.1,<2.0",
             "mkdocs-material>=9.5.36",
             "mkdocstrings>=1.0",
             "mkdocstrings-python>=2.0",
